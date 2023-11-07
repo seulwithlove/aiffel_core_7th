@@ -1,6 +1,6 @@
 # AIFFEL Campus Online 7th Code Peer Review Templete
 
-- 코더 : 코더 1인의 이름을 작성하세요.
+- 코더 : 이슬
 - 리뷰어 : 이승환
 
 
