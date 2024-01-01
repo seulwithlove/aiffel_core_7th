@@ -9,14 +9,14 @@
 
 1. Main_quest_04.Improving_pneumonia_diagnostic_performance
    - 캐글 노트북을 기반으로 작성된 노드를 학습후 
-    - CNN 모델을 이용해 성능 개선 
-    - ResNet18 모델 구현
-    - **train epoch 2 중간 지점까지 저장**된 노트북
+      - CNN 모델을 이용해 성능 개선 
+      - ResNet18 모델 구현
+      - **train epoch 2 중간 지점까지 저장**된 노트북
     
 2. [modified]Main_quest_04.Improving_pneumonia_diagnostic_performance
    - 마감시간 6시 이후에 업로드한 파일
-    - 완료하지 못한 학습을 완료하고 결과 시각화, 모델평가 진행
-    - 메인퀘스트 회고 추가
+      - 완료하지 못한 학습을 완료하고 결과 시각화, 모델평가 진행
+      - 메인퀘스트 회고 추가
   
 3. [Ver.2]Main_quest_04.Improving_pneumonia_diagnostic_performance
    - 아이펠 학습 시간 이후 추가 학습한 노트북
