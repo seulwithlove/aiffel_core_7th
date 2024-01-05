@@ -6,7 +6,7 @@
 
 ## 파일 구성
 
-1. Project_Ex02.file name
+1. Project_Ex02.News_summarizer
    - 노드를 학습후 
       - 추상적요약, 추출적요약 진행
 
