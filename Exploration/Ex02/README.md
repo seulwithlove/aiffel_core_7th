@@ -10,6 +10,9 @@
    - 노드를 학습후 
       - 추상적요약, 추출적요약 진행
 
+2. [ver2]Project_EX02.News_summarizer
+   - 트랜스포머 모델 실험 추가
+
 ---
 
 ## AIFFEL Campus Online Code Peer Review
