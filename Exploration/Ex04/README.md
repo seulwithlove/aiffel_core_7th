@@ -23,11 +23,11 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
-<img width="241" alt="스크린샷 2024-01-23 오후 5 15 03" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/c51704ec-af2b-41eb-a03f-3ee50e9bedb7">
+<img width="241" alt="스크린샷 2024-01-23 오후 5 15 03" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/c51704ec-af2b-41eb-a03f-3ee50e9bedb7">  
 [리뷰] 이미지가 선명하지는 않지만, 학습을 통해 점점 선명해져가는 형상이 확인되었다.  
 
-<img width="821" alt="스크린샷 2024-01-23 오후 5 16 11" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/36ea0b56-5420-42c7-904e-f39f474dc083">
-[리뷰] fake image의 accuracy가 0.5로 수렴하지는 않아보이지만, 에폭 진행에 따른 학습 결과 변화 추이를 확인할 수 있다.
+<img width="821" alt="스크린샷 2024-01-23 오후 5 16 11" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/36ea0b56-5420-42c7-904e-f39f474dc083">  
+[리뷰] fake image의 accuracy가 0.5로 수렴하지는 않아보이지만, 에폭 진행에 따른 학습 결과 변화 추이를 확인할 수 있다.  
 
 ---
 
@@ -38,11 +38,11 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
      
-<img width="893" alt="스크린샷 2024-01-23 오후 5 20 00" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/26456f68-a72b-4732-84ad-1142d9e21154">
-<img width="556" alt="스크린샷 2024-01-23 오후 5 20 13" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/28dd2b0f-d61d-4fe3-a14b-ed25eba6671e">
-<img width="786" alt="스크린샷 2024-01-23 오후 5 20 21" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/a04508e6-fe92-4548-930c-5ae5665dd884">
-<img width="775" alt="스크린샷 2024-01-23 오후 5 20 27" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/f4ff3d9a-4825-4e54-bfaa-82ddbcdfafd2">
-[리뷰] 각 지표가 의미하는 바와 결과 분석에 앞서 확인해야할 사항 등에 대한 설명이 자세하게 기록되어 있다.
+<img width="893" alt="스크린샷 2024-01-23 오후 5 20 00" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/26456f68-a72b-4732-84ad-1142d9e21154">  
+<img width="556" alt="스크린샷 2024-01-23 오후 5 20 13" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/28dd2b0f-d61d-4fe3-a14b-ed25eba6671e">  
+<img width="786" alt="스크린샷 2024-01-23 오후 5 20 21" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/a04508e6-fe92-4548-930c-5ae5665dd884">  
+<img width="775" alt="스크린샷 2024-01-23 오후 5 20 27" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/f4ff3d9a-4825-4e54-bfaa-82ddbcdfafd2">  
+[리뷰] 각 지표가 의미하는 바와 결과 분석에 앞서 확인해야할 사항 등에 대한 설명이 자세하게 기록되어 있다.  
 
 ---
         
@@ -53,8 +53,8 @@
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
           
-<img width="910" alt="스크린샷 2024-01-23 오후 5 21 15" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/99b496bb-de64-47b1-b240-1494cb9ec929">
-[리뷰] 출력을 확인한 뒤,  어떻게 수정을 해야 하는지에 대한 수정 방향이 자세하게 기록되어 있다.
+<img width="910" alt="스크린샷 2024-01-23 오후 5 21 15" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/99b496bb-de64-47b1-b240-1494cb9ec929">  
+[리뷰] 출력을 확인한 뒤,  어떻게 수정을 해야 하는지에 대한 수정 방향이 자세하게 기록되어 있다.  
 
 ---
         
@@ -64,8 +64,8 @@
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
           
-<img width="900" alt="스크린샷 2024-01-23 오후 5 21 52" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/0eee5815-c680-4ebc-8280-0cd540db310f">
-[리뷰] 프로젝트에 대한 요약과 진행하며 느낀 점들에 대한 회고가 자세하게 기록되어 있다.
+<img width="900" alt="스크린샷 2024-01-23 오후 5 21 52" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/0eee5815-c680-4ebc-8280-0cd540db310f">  
+[리뷰] 프로젝트에 대한 요약과 진행하며 느낀 점들에 대한 회고가 자세하게 기록되어 있다.  
 
 ---
       
@@ -75,8 +75,8 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
           
-<img width="891" alt="스크린샷 2024-01-23 오후 5 21 40" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/05aa31e0-df62-486a-be30-dee6e7b2b75a">
-[리뷰] 각 과정의 비교를 위한 시각화 방법을 간결하게 코드로 작성하여 결과 비교를 효과적으로 수행하였다.
+<img width="891" alt="스크린샷 2024-01-23 오후 5 21 40" src="https://github.com/thetjswo/aiffel_core_7th_ls/assets/74177040/05aa31e0-df62-486a-be30-dee6e7b2b75a">  
+[리뷰] 각 과정의 비교를 위한 시각화 방법을 간결하게 코드로 작성하여 결과 비교를 효과적으로 수행하였다.  
 
 # 참고 링크 및 코드 개선
 ```
