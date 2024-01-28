@@ -8,7 +8,9 @@
 
 1. Project_Ex04.GAN_CIFAR10
    - 노드를 학습후 CIFAR10 이미지를 생성하는 GAN 모델 구현
-
+2. [ver.2]Project_Ex04.GAN_CIFAR10
+    - 첫번쨰 노트북의 성능개선 시도
+    
 ---
 
 ## AIFFEL Campus Online Code Peer Review
