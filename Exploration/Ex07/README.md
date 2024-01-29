@@ -26,6 +26,7 @@
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
         - 모델 구조를 고정하셨다.
+          
           ![image](https://github.com/NeatyNut/seul/assets/89675001/c51f5fe0-7466-4ace-a07c-2e97d5f19e6a)
 
     
@@ -36,6 +37,7 @@
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
         - 파라미터 탐색 값을 잘 설정해주셨다.
+          
           ![image](https://github.com/NeatyNut/seul/assets/89675001/00250c2b-63b4-49d8-ac8e-3a289c5ea7cc)
 
         
@@ -46,6 +48,7 @@
     실험이 기록되어 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
         - 수정하여야 하는 부분을 인지하셨다.
+          
           ![image](https://github.com/NeatyNut/seul/assets/89675001/6a81a018-2f72-4e5b-b32b-cdebeaa4a011)
 
         
@@ -55,6 +58,7 @@
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
         - summary작성이 좋았다.
+          
           ![image](https://github.com/NeatyNut/seul/assets/89675001/0180850f-7f58-4881-8573-dbd21dc71571)
 
         
@@ -64,6 +68,7 @@
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화했는지
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
         - categorical_crossentropy를 쓸 수 있는 구조로 쉽게 바꾸셨다.
+          
           ![image](https://github.com/NeatyNut/seul/assets/89675001/a979b2f3-b213-4ca8-8555-dcead76e4ac1)
 
         
