@@ -8,6 +8,7 @@
 
 1. Quest01.dart
    - 책을 학습후 'Pomodoro Timer'를 구현
+   - <img width="625" alt="Screenshot 2024-02-01 at 15 29 48" src="https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/1545f0f5-f8d4-418f-966c-cb31b116e413">
 
 
 ---
