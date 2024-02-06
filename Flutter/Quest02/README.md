@@ -8,6 +8,8 @@
    - 책을 학습후 문제 이미지대로 앱 구현
    - <img width="757" alt="quest02" src="https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/7e2259e2-cb39-40ca-9bc1-988a95a42811">
    - <img width="347" alt="Screenshot 2024-02-06 at 17 03 04" src="https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/afb3f57f-f72c-4660-8d08-c442ed6cda48">
+   - <img width="634" alt="Screenshot 2024-02-06 at 17 31 33" src="https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/07961fb6-436a-4db2-92a7-7df5ca72feba">
+
 
 
 
