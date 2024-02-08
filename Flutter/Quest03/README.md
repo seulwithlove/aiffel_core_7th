@@ -10,7 +10,9 @@
    - <img width="614" alt="quest03_2" src="https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/f929595a-1123-4e25-b8f0-781fc48a9465">
    - <img width="459" alt="quest03_3" src="https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/5e40a19c-dde8-4be8-9129-6b044cf982ac">
 
-   - 플러터 구현 결과 사진
+   - 플러터 구현 결과 영상, 사진
+     - https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/feffc871-7108-4e65-ba05-2a15a7db6696
+
      - ![Screenshot 2024-02-08 at 17 23 39](https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/fce85342-5ae7-4029-b55a-197fa3d3f2f7)
      - ![Screenshot 2024-02-08 at 17 23 34](https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/ba0804e6-7bb5-4677-80d6-67d397551e51)
      - ![Screenshot 2024-02-08 at 17 23 47](https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/1aa08e91-2946-46c7-8137-ab71eab9d0db)
