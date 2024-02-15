@@ -34,7 +34,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Future<void> fetchData() async {
     try {
       const enteredUrl =
-          'https://9045-34-168-171-13.ngrok-free.app/'; // URL 가져오기
+          'https://83f8-34-168-171-13.ngrok-free.app/'; // URL 가져오기
       final response = await http.get(
         Uri.parse("${enteredUrl}sample"), // URL 사용
         headers: {
@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
         final data = jsonDecode(response.body);
         setState(() {
           result1 = "predicted_label: ${data['predicted_label']}";
-          result2 = "prediction_score: ${data['prediction_score']}";
+          result2 = "max_probability: ${data['max_probability']}";
         });
       } else {
         setState(() {
@@ -111,13 +111,25 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ],
             ),
+            SizedBox(
+              height: 20,
+            ),
+
+            Row(
+              children: [
+                Text(
+                  result1,
+                  style: TextStyle(fontSize: 18),
+                ),
+                Text(
+                  result2,
+                  style: TextStyle(fontSize: 18),
+                ),
+              ],
+            ),
           ],
         ),
       ),
     );
   }
-
-  // void print() {
-  //   print(result);
-  // }
 }
