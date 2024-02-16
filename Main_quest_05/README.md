@@ -32,8 +32,9 @@
 
 ### 결과물
 - 1차
-    
-    - https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/7bdd4de6-a815-41e8-8db1-54f5015438bc
+
+https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/685b0d9e-1f33-4373-a873-cdb7b8ac5a83
+  
 
 ---
 
