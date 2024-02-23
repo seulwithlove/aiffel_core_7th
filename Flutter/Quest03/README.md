@@ -6,8 +6,6 @@
 
 1. quest03
    - 책을 학습후 문제대로 앱 구현
-   - <img width="608" alt="quest03_1" src="https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/5afcdca5-6e3f-4ca5-be9b-f3257aaa8dcb">
-   - <img width="614" alt="quest03_2" src="https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/f929595a-1123-4e25-b8f0-781fc48a9465">
    - <img width="459" alt="quest03_3" src="https://github.com/seulwithlove/aiffel_core_7th/assets/140625136/5e40a19c-dde8-4be8-9129-6b044cf982ac">
 
    - 플러터 구현 결과 영상, 사진
