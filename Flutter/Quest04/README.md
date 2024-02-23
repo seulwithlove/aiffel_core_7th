@@ -6,11 +6,9 @@
 
 1. quest04
    - 책을 학습후 문제대로 앱 구현
-   - 
 
-   - 플러터 구현 결과 영상, 사진
-     - 
 
+### Updated version repository [🔗](https://github.com/seulwithlove/aiffel_flutter_quest04)
 
 
 ---
